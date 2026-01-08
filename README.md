@@ -1,2 +1,2 @@
 # Portfolio
-Compilation of past projects done (mainly in the area of Data Science)
+Compilation of past projects done (mainly in the area of Data Science and basic Natural Language Processing)
